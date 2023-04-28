@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MY-NTRA.find</string>
+    <string name="todo">TODO</string>
+    <string name="textview" />
+    <string name="select_num">أختر الرقم</string>
+    <string name="find_owner">الـبـحـث </string>
+    <string name="more">الـمزيد</string>
+    <string name="todo3">TODO</string>
+
+</resources>
